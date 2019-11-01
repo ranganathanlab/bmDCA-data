@@ -1,0 +1,12 @@
+# Compressed files
+*.sw[a-p]
+*~
+*.gz
+*.xz
+*.zip
+
+# Examples
+Processed
+processed
+bmInf_Example
+bminf_example
